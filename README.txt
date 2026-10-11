@@ -20,3 +20,6 @@ v0.3 新機能
 
 
 v0.3.1: スマホ用コンパクト表示、作成中プレビューの追従表示、行編集欄の配置調整。
+
+
+v0.3.2: compact horizontal fields, enlarged preview, reordered tabs.
